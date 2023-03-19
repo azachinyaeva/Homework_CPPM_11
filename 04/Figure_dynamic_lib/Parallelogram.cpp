@@ -1,3 +1,4 @@
+#include "Figure.h"
 #include "Quadrangle.h"
 #include "Parallelogram.h"
 

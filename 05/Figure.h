@@ -1,5 +1,5 @@
 #pragma once
-#ifndef FIGURE_LIB_EXPORTS
+#ifdef DynamicFigure_EXPORTS
 #define FIGURE_LIB_API __declspec(dllexport)
 #else
 #define FIGURE_LIB_API __declspec(dllimport)
